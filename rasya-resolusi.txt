@@ -1,4 +1,0 @@
-Pagi pak, Saya Ramanda Syaputra, mahasiswa dari Padang
-
-Resolusi saya :
-- mendalami API, javascript, laravel menggunakan channel dari bapak
